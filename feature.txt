@@ -1,0 +1,9 @@
+"""
+CSCI-603: feature.txt(Lab4)
+
+__author__: Yu-ching Sun
+
+"""
+
+The feature which I have added to my spelling correction scheme
+is a missing letter word correction. For example, input "iew" will be corrected as "view".
