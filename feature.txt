@@ -5,5 +5,7 @@ __author__: Yu-ching Sun
 
 """
 
-The feature which I have added to my spelling correction scheme
-is a missing letter word correction. For example, input "iew" will be corrected as "view".
+The features which I have added to my spelling correction scheme
+are a missing letter word correction and mistyping one letter correction.
+
+For example, input "iew" will be corrected as "view".
