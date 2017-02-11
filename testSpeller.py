@@ -1,9 +1,9 @@
 """
-CSCI-603: Spellfixer.py(Lab4)
+CSCI-603: testSpeller.py(Lab4)
 
 This program is a spelling error correction system which
-corrects user slippery finger errors and missing a letter errors
-and correct one misspelled character and return the correct words.
+corrects user slippery finger errors, missing a letter errors
+and one misspelled character errors. Then the program returns the correct words.
 
 __author__: Yu-ching Sun
 
